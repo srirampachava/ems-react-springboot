@@ -36,7 +36,7 @@ The application provides **role-based login** functionality for Admin and Employ
 ### 👤 Employee Login
 
 - **Username:** Any **first name** from the employee list  
-- **Password:** Any value
+- **Password:** Any first name
 
 > Employee has read-only access (View employee list only)
 
